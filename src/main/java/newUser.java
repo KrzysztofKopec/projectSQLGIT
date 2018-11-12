@@ -1,4 +1,4 @@
-public class newUser implements User {
+public class newUser {
     public void createUser() {
 
     }
